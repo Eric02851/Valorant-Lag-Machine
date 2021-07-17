@@ -25,16 +25,15 @@ https://github.com/Eric02851/Valorant-Lag-Machine/releases
  python main.py
  ```
 # Usage and Keybinds:
-### Order of commands should be 1, 2, 3
-### 1. alt + shift + 7
+### alt + shift + 1
    ```
    Opens buy menue, then buys and drops shorties.
    ```
-### 2. alt + shift + 8
+### alt + shift + 2
    ```
    Spam clicks f to rapidly pick up shorties lagging the server.
    ```
-### 3. alt + shift + 8
+### alt + shift + 3
    ```
    Stops running action.
    ```
