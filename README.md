@@ -1,5 +1,7 @@
 # Valorant Server Lag Machine
 
+## Demo Video: https://youtu.be/rWTP0_G83jA
+
 # Installation
 ### Download the latest binary from the releases page
 https://github.com/Eric02851/Valorant-Lag-Machine/releases
